@@ -77,8 +77,8 @@ type: post
 
 rufus参数：
 - 镜像选择：标准Windows安装
-- 分区类型：GPT
-- 目标系统类型：UEFI（非CSM）
+- 分区类型：`GPT`
+- 目标系统类型：`UEFI`（非`CSM`）
 - 文件系统：NTFS
 
 # 3. 插上盘重装
