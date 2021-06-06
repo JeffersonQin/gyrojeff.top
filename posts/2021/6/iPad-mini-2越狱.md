@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: '292'
 status: publish
-tags: [越狱, iOS, Apple, checkra1n, FreeBSD]
+tags: [Apple, FreeBSD, checkra1n, iOS, 越狱]
 template: ''
 title: iPad mini 2越狱
 type: post
