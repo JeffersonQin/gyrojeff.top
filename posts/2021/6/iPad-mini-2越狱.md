@@ -5,6 +5,8 @@ allowPing: true
 authorId: 1
 categories: [技术]
 created: '2021-06-06 13:31:03'
+fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
+  thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
 modified: '2021-06-06 13:31:03'
 parent: 0
 password: ''
