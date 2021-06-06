@@ -8,7 +8,7 @@ created: '2021-01-14 13:57:00'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/uploads/bg/27.jpg',
   thumbChoice: default, thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-01-14 14:11:46'
+modified: '2021-06-06 14:15:54'
 parent: 0
 password: ''
 slug: '262'
@@ -70,9 +70,7 @@ npm install -g vsce
 vsce publish
 ```
 
-之后的内容可以参考我以前的博客：
-
-https://gyrojeff.top/index.php/archives/268/
+之后的内容可以参考我以前的[博客](/index.php/archives/268/)
 
 插件主页&安装地址：https://marketplace.visualstudio.com/items?itemName=JeffersonQin.tencent-cloud-cos-upload-image
 
