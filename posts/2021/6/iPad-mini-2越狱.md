@@ -3,14 +3,14 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-06-06 13:31:03'
 modified: '2021-06-06 13:31:03'
 parent: 0
 password: ''
 slug: '292'
 status: publish
-tags: []
+tags: [Apple, FreeBSD, checkra1n, iOS, 越狱]
 template: ''
 title: iPad mini 2越狱
 type: post
