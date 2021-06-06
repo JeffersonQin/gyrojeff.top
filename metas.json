@@ -121,6 +121,13 @@
 			"slug": "Apache",
 			"type": "tag"
 		},
+		"Apple": {
+			"description": null,
+			"mid": 178,
+			"parent": 0,
+			"slug": "Apple",
+			"type": "tag"
+		},
 		"AppleScript": {
 			"description": null,
 			"mid": 118,
@@ -322,6 +329,13 @@
 			"mid": 44,
 			"parent": 0,
 			"slug": "Emoji",
+			"type": "tag"
+		},
+		"FreeBSD": {
+			"description": null,
+			"mid": 175,
+			"parent": 0,
+			"slug": "FreeBSD",
 			"type": "tag"
 		},
 		"GAN": {
@@ -716,6 +730,13 @@
 			"slug": "cURL",
 			"type": "tag"
 		},
+		"checkra1n": {
+			"description": null,
+			"mid": 177,
+			"parent": 0,
+			"slug": "checkra1n",
+			"type": "tag"
+		},
 		"crontab": {
 			"description": null,
 			"mid": 140,
@@ -728,6 +749,13 @@
 			"mid": 38,
 			"parent": 0,
 			"slug": "handsome",
+			"type": "tag"
+		},
+		"iOS": {
+			"description": null,
+			"mid": 174,
+			"parent": 0,
+			"slug": "iOS",
 			"type": "tag"
 		},
 		"npm": {
@@ -1022,6 +1050,13 @@
 			"mid": 133,
 			"parent": 0,
 			"slug": "设计",
+			"type": "tag"
+		},
+		"越狱": {
+			"description": null,
+			"mid": 176,
+			"parent": 0,
+			"slug": "越狱",
 			"type": "tag"
 		},
 		"轻小说": {
