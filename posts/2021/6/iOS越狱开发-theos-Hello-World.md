@@ -6,13 +6,14 @@ authorId: 1
 categories: [技术]
 created: '2021-06-06 14:24:07'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
-  thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/069f21ee7726c65476b6c2602ed58d0ea9855493.jpg', thumbDesc: '', thumbSmall: '', thumbStyle: default}
+  thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/069f21ee7726c65476b6c2602ed58d0ea9855493.jpg',
+  thumbDesc: '', thumbSmall: '', thumbStyle: default}
 modified: '2021-06-06 14:24:07'
 parent: 0
 password: ''
 slug: iOS越狱开发-theos-Hello-World
 status: publish
-tags: [Apple, iOS, FreeBSD, theos]
+tags: [Apple, FreeBSD, iOS, theos]
 template: ''
 title: iOS越狱开发 | theos | Hello World
 type: post
