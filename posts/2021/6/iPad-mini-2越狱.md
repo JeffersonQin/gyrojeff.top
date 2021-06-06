@@ -6,6 +6,7 @@ authorId: 1
 categories: [技术]
 created: '2021-06-06 13:31:03'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
+  thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/bd1860aabd54ce3e3a676bd1e615ad3f19329a48.jpg',
   thumbDesc: '', thumbSmall: '', thumbStyle: default}
 modified: '2021-06-06 13:31:03'
 parent: 0
