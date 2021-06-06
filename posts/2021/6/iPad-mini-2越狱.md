@@ -10,6 +10,7 @@ fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', rep
 modified: '2021-06-06 13:31:03'
 parent: 0
 password: ''
+slug: '292'
 status: publish
 tags: [越狱, iOS, Apple, checkra1n, FreeBSD]
 template: ''
