@@ -8,7 +8,7 @@ created: '2020-12-26 21:21:00'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/uploads/bg/20.png',
   thumbChoice: default, thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-01-02 10:57:02'
+modified: '2021-06-06 14:15:03'
 parent: 0
 password: ''
 slug: '152'
@@ -26,7 +26,7 @@ type: post
 
 上一篇关于本项目的介绍博客：
 
-[post url="https://gyrojeff.top/index.php/archives/14/" title="handsome神代綺凜式魔改主题插件再魔改" cover="https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/uploads/assets/avatar.jpg"/]
+[post url="/index.php/archives/14/" title="handsome神代綺凜式魔改主题插件再魔改" cover="https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/uploads/assets/avatar.jpg"/]
 
 # 做了的改进
 
