@@ -800,6 +800,13 @@
 			"slug": "ttf",
 			"type": "tag"
 		},
+		"二次元": {
+			"description": null,
+			"mid": 180,
+			"parent": 0,
+			"slug": "二次元",
+			"type": "tag"
+		},
 		"二级域名": {
 			"description": null,
 			"mid": 154,
