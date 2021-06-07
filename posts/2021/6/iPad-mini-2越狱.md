@@ -4,11 +4,11 @@ allowFeed: true
 allowPing: true
 authorId: 1
 categories: [技术]
-created: '2021-06-06 13:31:03'
+created: '2021-06-06 13:31:00'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/bd1860aabd54ce3e3a676bd1e615ad3f19329a48.jpg',
-  thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-06-06 13:31:03'
+  thumbChoice: default, thumbDesc: '', thumbSmall: '', thumbStyle: default}
+modified: '2021-06-07 13:48:18'
 parent: 0
 password: ''
 slug: '292'
@@ -49,7 +49,7 @@ type: post
 
 过程：
 1. 在mac上安装应用
-2. 根据提示，先进入Recovery，在进入DFU
+2. 根据提示，先进入Recovery，再进入DFU
 3. 在重启完成之后，等待片刻，checkra1n会出现在屏幕上
 4. 进入checkra1n安装Cydia
 
