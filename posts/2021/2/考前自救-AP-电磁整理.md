@@ -3,12 +3,12 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [知识]
 created: '2021-02-18 17:54:00'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/微信图片_20201014215818.jpg',
   thumbChoice: default, thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-05-14 15:31:17'
+modified: '2021-06-07 12:00:53'
 parent: 0
 password: ''
 slug: '278'
