@@ -10,7 +10,7 @@ parent: 0
 password: ''
 slug: 自定义Karabiner-Elements的Complex Modification
 status: publish
-tags: [Karabiner-Elements, Github]
+tags: [Github, Karabiner-Elements]
 template: ''
 title: 自定义Karabiner-Elements的Complex Modification
 type: post

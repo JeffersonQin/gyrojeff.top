@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: RealVNC连接macOS解决键盘映射
 status: publish
-tags: [VNC, RealVNC, 键盘, macOS]
+tags: [RealVNC, VNC, macOS, 键盘]
 template: ''
 title: RealVNC连接macOS解决键盘映射
 type: post

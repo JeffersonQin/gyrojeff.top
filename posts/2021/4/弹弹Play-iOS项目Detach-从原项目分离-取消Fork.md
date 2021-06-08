@@ -10,7 +10,7 @@ parent: 0
 password: ''
 slug: 弹弹Play iOS项目Detach (从原项目分离 取消Fork)
 status: publish
-tags: [弹弹Play, Git, Github]
+tags: [Git, Github, 弹弹Play]
 template: ''
 title: 弹弹Play iOS项目Detach (从原项目分离 取消Fork)
 type: post

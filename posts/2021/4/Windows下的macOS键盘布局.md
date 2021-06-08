@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: Windows下的macOS键盘布局
 status: publish
-tags: [Windows, macOS, 键盘, 键位, AutoHotKey]
+tags: [AutoHotKey, Windows, macOS, 键位, 键盘]
 template: ''
 title: Windows下的macOS键盘布局
 type: post
