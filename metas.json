@@ -135,6 +135,13 @@
 			"slug": "AppleScript",
 			"type": "tag"
 		},
+		"AutoHotKey": {
+			"description": null,
+			"mid": 181,
+			"parent": 0,
+			"slug": "AutoHotKey",
+			"type": "tag"
+		},
 		"BIT": {
 			"description": null,
 			"mid": 105,
@@ -352,6 +359,13 @@
 			"slug": "GalGame",
 			"type": "tag"
 		},
+		"Git": {
+			"description": null,
+			"mid": 188,
+			"parent": 0,
+			"slug": "Git",
+			"type": "tag"
+		},
 		"Github": {
 			"description": null,
 			"mid": 30,
@@ -399,6 +413,13 @@
 			"mid": 15,
 			"parent": 0,
 			"slug": "Java",
+			"type": "tag"
+		},
+		"Karabiner-Elements": {
+			"description": null,
+			"mid": 186,
+			"parent": 0,
+			"slug": "Karabiner-Elements",
 			"type": "tag"
 		},
 		"LaTeX": {
@@ -546,6 +567,13 @@
 			"mid": 65,
 			"parent": 0,
 			"slug": "Python",
+			"type": "tag"
+		},
+		"RealVNC": {
+			"description": null,
+			"mid": 182,
+			"parent": 0,
+			"slug": "RealVNC",
 			"type": "tag"
 		},
 		"SMB": {
@@ -758,6 +786,13 @@
 			"slug": "iOS",
 			"type": "tag"
 		},
+		"macOS": {
+			"description": null,
+			"mid": 183,
+			"parent": 0,
+			"slug": "macOS",
+			"type": "tag"
+		},
 		"npm": {
 			"description": null,
 			"mid": 95,
@@ -854,6 +889,13 @@
 			"mid": 129,
 			"parent": 0,
 			"slug": "并查集",
+			"type": "tag"
+		},
+		"弹弹Play": {
+			"description": null,
+			"mid": 184,
+			"parent": 0,
+			"slug": "弹弹Play",
 			"type": "tag"
 		},
 		"微软正黑体": {
@@ -1092,6 +1134,20 @@
 			"mid": 149,
 			"parent": 0,
 			"slug": "重装",
+			"type": "tag"
+		},
+		"键位": {
+			"description": null,
+			"mid": 185,
+			"parent": 0,
+			"slug": "键位",
+			"type": "tag"
+		},
+		"键盘": {
+			"description": null,
+			"mid": 187,
+			"parent": 0,
+			"slug": "键盘",
 			"type": "tag"
 		},
 		"阿里巴巴": {
