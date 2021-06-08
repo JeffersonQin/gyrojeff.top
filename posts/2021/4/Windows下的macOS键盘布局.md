@@ -5,11 +5,8 @@ allowPing: true
 authorId: 1
 categories: []
 created: '2021-04-10 02:02:00'
-<<<<<<< HEAD
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-=======
->>>>>>> prod
 modified: '2021-04-10 02:09:10'
 parent: 0
 password: ''
