@@ -3,7 +3,7 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-04-10 02:02:00'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: Windows下的macOS键盘布局
 status: publish
-tags: []
+tags: [Windows, macOS, 键盘, 键位, AutoHotKey]
 template: ''
 title: Windows下的macOS键盘布局
 type: post

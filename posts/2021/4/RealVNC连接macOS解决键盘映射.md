@@ -3,7 +3,7 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-04-10 02:00:00'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: RealVNC连接macOS解决键盘映射
 status: publish
-tags: []
+tags: [VNC, RealVNC, 键盘, macOS]
 template: ''
 title: RealVNC连接macOS解决键盘映射
 type: post
