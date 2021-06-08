@@ -3,14 +3,14 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-04-10 16:25:00'
 modified: '2021-04-10 16:30:28'
 parent: 0
 password: ''
 slug: 弹弹Play iOS项目Detach (从原项目分离 取消Fork)
 status: publish
-tags: []
+tags: [Git, Github, 弹弹Play]
 template: ''
 title: 弹弹Play iOS项目Detach (从原项目分离 取消Fork)
 type: post

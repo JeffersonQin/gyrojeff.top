@@ -3,14 +3,14 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-04-10 16:35:00'
 modified: '2021-04-10 16:45:26'
 parent: 0
 password: ''
 slug: 自定义Karabiner-Elements的Complex Modification
 status: publish
-tags: []
+tags: [Github, Karabiner-Elements]
 template: ''
 title: 自定义Karabiner-Elements的Complex Modification
 type: post
