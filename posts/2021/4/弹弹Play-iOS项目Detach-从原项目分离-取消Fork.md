@@ -5,8 +5,6 @@ allowPing: true
 authorId: 1
 categories: []
 created: '2021-04-10 16:25:00'
-fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
-  thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
 modified: '2021-04-10 16:30:28'
 parent: 0
 password: ''
