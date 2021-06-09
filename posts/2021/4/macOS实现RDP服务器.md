@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: macOS实现RDP服务器
 status: publish
-tags: [macOS, RDP, VNC]
+tags: [RDP, VNC, macOS]
 template: ''
 title: macOS实现RDP服务器
 type: post
