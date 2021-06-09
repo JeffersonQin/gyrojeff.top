@@ -3,14 +3,16 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-04-07 01:50:00'
+fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
+  thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
 modified: '2021-06-09 16:32:29'
 parent: 0
 password: ''
 slug: macOS实现RDP服务器
 status: publish
-tags: []
+tags: [RDP, VNC, macOS]
 template: ''
 title: macOS实现RDP服务器
 type: post
