@@ -3,14 +3,14 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-03-01 00:26:07'
 modified: '2021-06-10 12:03:07'
 parent: 0
 password: ''
 slug: FileZilla-FTP服务器设置手册
 status: publish
-tags: []
+tags: [FTP, FileZilla]
 template: ''
 title: FileZilla | FTP服务器设置手册
 type: post
