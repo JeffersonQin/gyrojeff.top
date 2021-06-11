@@ -8,11 +8,11 @@ created: '2021-06-11 11:11:47'
 modified: '2021-06-11 11:11:47'
 parent: 0
 password: ''
-slug: 记录-腾讯云COS被打40T
+slug: 记录-腾讯云COS被打33T
 status: publish
 tags: []
 template: ''
-title: 记录 | 腾讯云COS被打40T
+title: 记录 | 腾讯云COS被打33T
 type: post
 ---
 # 引言
