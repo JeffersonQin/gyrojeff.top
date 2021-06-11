@@ -569,6 +569,13 @@
 			"slug": "PPT",
 			"type": "tag"
 		},
+		"Powershell": {
+			"description": null,
+			"mid": 192,
+			"parent": 0,
+			"slug": "Powershell",
+			"type": "tag"
+		},
 		"Presentation": {
 			"description": null,
 			"mid": 74,
@@ -609,6 +616,13 @@
 			"mid": 26,
 			"parent": 0,
 			"slug": "SQL",
+			"type": "tag"
+		},
+		"SSH": {
+			"description": null,
+			"mid": 193,
+			"parent": 0,
+			"slug": "SSH",
 			"type": "tag"
 		},
 		"SSL": {
