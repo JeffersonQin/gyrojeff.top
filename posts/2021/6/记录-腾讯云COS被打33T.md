@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: 记录-腾讯云COS被打33T
 status: publish
-tags: [腾讯云, COS]
+tags: [COS, 腾讯云]
 template: ''
 title: 记录 | 腾讯云COS被打33T
 type: post

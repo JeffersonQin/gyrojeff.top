@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: Windows下搭建SSH服务器
 status: publish
-tags: [SSH, Windows, Powershell]
+tags: [Powershell, SSH, Windows]
 template: ''
 title: Windows下搭建SSH服务器
 type: post
