@@ -3,14 +3,16 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [记录]
 created: '2021-06-11 11:11:47'
+fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
+  thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
 modified: '2021-06-11 11:11:47'
 parent: 0
 password: ''
 slug: 记录-腾讯云COS被打33T
 status: publish
-tags: []
+tags: [COS, 腾讯云]
 template: ''
 title: 记录 | 腾讯云COS被打33T
 type: post
