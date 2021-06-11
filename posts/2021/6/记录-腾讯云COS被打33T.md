@@ -7,7 +7,7 @@ categories: [记录]
 created: '2021-06-11 11:11:47'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-06-11 11:11:47'
+modified: '2021-06-11 11:58:54'
 parent: 0
 password: ''
 slug: 记录-腾讯云COS被打33T
@@ -90,6 +90,10 @@ $$
 此外, 由于我当时没有立刻关停COS, 所以除了这两千块钱, 还有额外产生的费用. 第二天我在学校一看, 果不其然:
 
 ![](https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/QQMail_19.png)
+
+被打高达33T, 账单要1w6??
+
+![](https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/QQMail_11.png)
 
 不过最后也一并抹平了.
 
