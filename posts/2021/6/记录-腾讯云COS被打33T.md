@@ -3,27 +3,18 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-<<<<<<< HEAD
 categories: [记录]
 created: '2021-06-11 11:11:47'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-=======
-categories: []
-created: '2021-06-11 11:11:47'
->>>>>>> prod
 modified: '2021-06-11 11:11:47'
 parent: 0
 password: ''
-slug: 记录-腾讯云COS被打40T
+slug: 记录-腾讯云COS被打33T
 status: publish
-<<<<<<< HEAD
 tags: [腾讯云, COS]
-=======
-tags: []
->>>>>>> prod
 template: ''
-title: 记录 | 腾讯云COS被打40T
+title: 记录 | 腾讯云COS被打33T
 type: post
 ---
 # 引言
