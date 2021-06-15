@@ -6,8 +6,8 @@ authorId: 1
 categories: [技术]
 created: '2021-04-07 01:50:00'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
-  thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-06-09 16:32:29'
+  thumb: '', thumbChoice: default, thumbDesc: '', thumbSmall: '', thumbStyle: default}
+modified: '2021-06-14 10:12:05'
 parent: 0
 password: ''
 slug: macOS实现RDP服务器
@@ -211,7 +211,7 @@ sudo /usr/local/sbin/xrdp-sesman
 
 ![](https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20210609164950.png)
 
-![](https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/![](httpscdn.jsdelivr.netghJeffersonQinblog-asset@latestusrpicgo20210609164950.png).png)
+![](https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20210614101107.png)
 
 `username`, `password`, `port`都在上面修改过的那份配置文件中可以修改，这里不多做赘述。
 
