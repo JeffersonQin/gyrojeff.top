@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: Windows-11-Preview-提前吃螃蟹
 status: publish
-tags: [Windows, 虚拟机, VMWare]
+tags: [VMWare, Windows, 虚拟机]
 template: ''
 title: Windows 11 Preview 提前吃螃蟹
 type: post
