@@ -3,14 +3,16 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-06-16 19:30:37'
+fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
+  thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
 modified: '2021-06-16 19:30:37'
 parent: 0
 password: ''
 slug: Windows-11-Preview-提前吃螃蟹
 status: publish
-tags: []
+tags: [VMWare, Windows, 虚拟机]
 template: ''
 title: Windows 11 Preview 提前吃螃蟹
 type: post
