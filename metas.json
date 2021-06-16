@@ -709,6 +709,13 @@
 			"slug": "Ubuntu",
 			"type": "tag"
 		},
+		"VMWare": {
+			"description": null,
+			"mid": 194,
+			"parent": 0,
+			"slug": "VMWare",
+			"type": "tag"
+		},
 		"VNC": {
 			"description": null,
 			"mid": 143,
@@ -1113,6 +1120,13 @@
 			"mid": 20,
 			"parent": 0,
 			"slug": "腾讯云",
+			"type": "tag"
+		},
+		"虚拟机": {
+			"description": null,
+			"mid": 195,
+			"parent": 0,
+			"slug": "虚拟机",
 			"type": "tag"
 		},
 		"补帧": {
