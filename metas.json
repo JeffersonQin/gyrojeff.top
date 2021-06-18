@@ -646,6 +646,13 @@
 			"slug": "SVP",
 			"type": "tag"
 		},
+		"Scrapy": {
+			"description": null,
+			"mid": 196,
+			"parent": 0,
+			"slug": "Scrapy",
+			"type": "tag"
+		},
 		"Set": {
 			"description": null,
 			"mid": 111,
