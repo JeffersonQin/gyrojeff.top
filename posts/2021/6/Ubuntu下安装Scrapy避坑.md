@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: Ubuntu下安装Scrapy避坑
 status: publish
-tags: [Ubuntu, Linux, Python, Scrapy]
+tags: [Linux, Python, Scrapy, Ubuntu]
 template: ''
 title: Ubuntu下安装Scrapy避坑
 type: post
