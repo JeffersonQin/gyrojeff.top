@@ -3,14 +3,16 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-06-18 21:16:30'
+fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
+  thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
 modified: '2021-06-18 21:16:30'
 parent: 0
 password: ''
 slug: Ubuntu下安装Scrapy避坑
 status: publish
-tags: []
+tags: [Linux, Python, Scrapy, Ubuntu]
 template: ''
 title: Ubuntu下安装Scrapy避坑
 type: post
