@@ -961,6 +961,13 @@
 			"slug": "心理",
 			"type": "tag"
 		},
+		"放火墙": {
+			"description": null,
+			"mid": 197,
+			"parent": 0,
+			"slug": "放火墙",
+			"type": "tag"
+		},
 		"整活": {
 			"description": null,
 			"mid": 52,
