@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: 坑-WSL-Ubuntu-开启-SSH
 status: publish
-tags: [WSL, Ubuntu, Linux, 放火墙, SSH]
+tags: [Linux, SSH, Ubuntu, WSL, 放火墙]
 template: ''
 title: 坑 | WSL Ubuntu 开启 SSH
 type: post
