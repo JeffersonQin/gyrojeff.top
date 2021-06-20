@@ -3,14 +3,16 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-06-20 23:12:33'
+fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
+  thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
 modified: '2021-06-20 23:12:33'
 parent: 0
 password: ''
 slug: 坑-WSL-Ubuntu-开启-SSH
 status: publish
-tags: []
+tags: [Linux, SSH, Ubuntu, WSL, 放火墙]
 template: ''
 title: 坑 | WSL Ubuntu 开启 SSH
 type: post
