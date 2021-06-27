@@ -3,14 +3,16 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-06-27 19:36:55'
+fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
+  thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
 modified: '2021-06-27 19:36:55'
 parent: 0
 password: ''
 slug: git撤销特定的一次commit
 status: publish
-tags: []
+tags: [git]
 template: ''
 title: git撤销特定的一次commit
 type: post
