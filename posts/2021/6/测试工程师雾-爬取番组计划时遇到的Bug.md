@@ -3,14 +3,16 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-06-28 22:13:31'
+fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
+  thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
 modified: '2021-06-28 22:13:31'
 parent: 0
 password: ''
 slug: 测试工程师雾-爬取番组计划时遇到的Bug
 status: publish
-tags: []
+tags: [Bug]
 template: ''
 title: '[测试工程师（雾] 爬取番组计划时遇到的Bug'
 type: post
