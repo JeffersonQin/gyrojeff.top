@@ -3,14 +3,16 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-07-05 16:26:23'
+fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
+  thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
 modified: '2021-07-05 16:26:23'
 parent: 0
 password: ''
 slug: ffmpeg-视频抽帧
 status: publish
-tags: []
+tags: [ffmpeg]
 template: ''
 title: ffmpeg 视频抽帧
 type: post
