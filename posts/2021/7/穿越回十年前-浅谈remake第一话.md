@@ -13,7 +13,7 @@ parent: 0
 password: ''
 slug: 穿越回十年前-浅谈remake第一话
 status: publish
-tags: [随想, 人生]
+tags: [人生, 随想]
 template: ''
 title: 穿越回十年前 | 浅谈「remake」第一话
 type: post
