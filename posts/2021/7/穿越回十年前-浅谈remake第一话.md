@@ -3,14 +3,17 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [随想]
 created: '2021-07-05 15:54:02'
+fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
+  thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/45a2ee7f80b962f9c0bd28b314d2d8be.jpg',
+  thumbDesc: '', thumbSmall: '', thumbStyle: default}
 modified: '2021-07-05 15:54:02'
 parent: 0
 password: ''
 slug: 穿越回十年前-浅谈remake第一话
 status: publish
-tags: []
+tags: [人生, 随想]
 template: ''
 title: 穿越回十年前 | 浅谈「remake」第一话
 type: post
