@@ -3,7 +3,7 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: ['技术']
+categories: [技术]
 created: '2021-07-19 23:58:02'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: RealVNC-Server共享指定显示器
 status: publish
-tags: ['VNC']
+tags: [VNC]
 template: ''
 title: RealVNC Server共享指定显示器
 type: post
