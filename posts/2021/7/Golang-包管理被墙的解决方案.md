@@ -7,7 +7,7 @@ categories: [技术]
 created: '2021-07-25 21:06:18'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-07-25 21:06:18'
+modified: '2021-07-25 22:13:00'
 parent: 0
 password: ''
 slug: Golang-包管理被墙的解决方案
