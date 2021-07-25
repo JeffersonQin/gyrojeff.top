@@ -387,6 +387,13 @@
 			"slug": "Github",
 			"type": "tag"
 		},
+		"Go": {
+			"description": null,
+			"mid": 201,
+			"parent": 0,
+			"slug": "Go",
+			"type": "tag"
+		},
 		"HTML": {
 			"description": null,
 			"mid": 32,
@@ -630,6 +637,13 @@
 			"mid": 23,
 			"parent": 0,
 			"slug": "SSL",
+			"type": "tag"
+		},
+		"SSR": {
+			"description": null,
+			"mid": 200,
+			"parent": 0,
+			"slug": "SSR",
 			"type": "tag"
 		},
 		"STL": {
