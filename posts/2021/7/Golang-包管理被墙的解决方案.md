@@ -3,14 +3,16 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-07-25 21:06:18'
+fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
+  thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
 modified: '2021-07-25 21:06:18'
 parent: 0
 password: ''
 slug: Golang-包管理被墙的解决方案
 status: publish
-tags: []
+tags: [Go, SSR]
 template: ''
 title: Golang 包管理被墙的解决方案
 type: post
