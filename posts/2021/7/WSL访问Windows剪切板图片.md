@@ -3,16 +3,16 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-07-27 20:51:06'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-07-27 22:36:35'
+modified: '2021-07-27 22:37:59'
 parent: 0
 password: ''
 slug: WSL访问Windows剪切板图片
 status: publish
-tags: []
+tags: [Linux, Powershell, Shell, WSL, Windows, 剪切板]
 template: ''
 title: WSL访问Windows剪切板图片
 type: post
