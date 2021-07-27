@@ -3,7 +3,7 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-07-27 20:51:06'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: WSL访问Windows剪切板图片
 status: publish
-tags: []
+tags: [Linux, Powershell, Shell, WSL, Windows, 剪切板]
 template: ''
 title: WSL访问Windows剪切板图片
 type: post
@@ -59,8 +59,8 @@ function main {
     $stream.Dispose() | out-null
 
     $imagePath
-    #xa0fix windows 10 native cmd crash bug when "picgo upload"
-    #xa0https://github.com/PicGo/PicGo-Core/issues/32
+    # fix windows 10 native cmd crash bug when "picgo upload"
+    # https://github.com/PicGo/PicGo-Core/issues/32
     Exit 1
 }
 
