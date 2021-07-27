@@ -366,6 +366,13 @@
 			"slug": "GAN",
 			"type": "tag"
 		},
+		"GUI": {
+			"description": null,
+			"mid": 202,
+			"parent": 0,
+			"slug": "GUI",
+			"type": "tag"
+		},
 		"GalGame": {
 			"description": null,
 			"mid": 100,
@@ -945,6 +952,13 @@
 			"mid": 94,
 			"parent": 0,
 			"slug": "前端",
+			"type": "tag"
+		},
+		"剪切板": {
+			"description": null,
+			"mid": 203,
+			"parent": 0,
+			"slug": "剪切板",
 			"type": "tag"
 		},
 		"化学": {
