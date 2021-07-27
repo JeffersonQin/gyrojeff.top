@@ -6,7 +6,8 @@ authorId: 1
 categories: [技术]
 created: '2021-07-27 20:51:06'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
-  thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
+  thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/b1dc9430b503ff0e92fe782da559d93.jpg',
+  thumbDesc: '', thumbSmall: '', thumbStyle: default}
 modified: '2021-07-27 22:37:59'
 parent: 0
 password: ''
@@ -116,3 +117,4 @@ fi
 
 ```
 sh <path-to-script> <path-to-image>
+```

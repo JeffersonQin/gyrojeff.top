@@ -13,7 +13,7 @@ parent: 0
 password: ''
 slug: '226'
 status: publish
-tags: [DDNS, Linux, Ubuntu, WSL, crontab]
+tags: [DDNS, Linux, Ubuntu, WSL, crontab, 剪切板]
 template: ''
 title: DNSPod DDNS 实现方法
 type: post
