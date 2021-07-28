@@ -3,7 +3,7 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-07-28 21:29:25'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: npmyarn-不换源的速度提高尝试
 status: publish
-tags: []
+tags: [node, npm, yarn]
 template: ''
 title: npm/yarn 不换源的速度提高尝试
 type: post

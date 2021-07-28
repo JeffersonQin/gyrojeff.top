@@ -3,7 +3,7 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-07-29 01:02:01'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: Bluestacks-抓包注入方法-Httpcanary
 status: publish
-tags: []
+tags: [Android, Bluestacks]
 template: ''
 title: Bluestacks 抓包注入方法 (Httpcanary)
 type: post

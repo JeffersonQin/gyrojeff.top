@@ -3,7 +3,7 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2021-07-29 01:01:39'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: Bluestacks-root-方法
 status: publish
-tags: []
+tags: [Android, Bluestacks]
 template: ''
 title: Bluestacks root 方法
 type: post
