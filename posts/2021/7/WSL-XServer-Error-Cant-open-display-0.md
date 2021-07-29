@@ -7,7 +7,7 @@ categories: [技术]
 created: '2021-07-29 16:19:37'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-07-29 16:19:37'
+modified: '2021-07-29 18:43:39'
 parent: 0
 password: ''
 slug: WSL-XServer-Error-Cant-open-display-0
@@ -31,6 +31,8 @@ type: post
 ```
 export DISPLAY="HQWORKSTATION:40.0"
 ```
+
+注：`WSL2`的话`HQWORKSTATION`之类的主机名要改为**局域网IP**地址
 
 测试：
 
