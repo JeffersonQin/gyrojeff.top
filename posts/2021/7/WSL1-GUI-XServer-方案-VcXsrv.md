@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: WSL1-GUI-XServer-方案-VcXsrv
 status: publish
-tags: [GUI, Linux, WSL]
+tags: [GUI, Linux, WSL, XServer]
 template: ''
 title: WSL1 GUI (XServer) 方案 - VcXsrv
 type: post
