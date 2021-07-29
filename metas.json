@@ -142,6 +142,13 @@
 			"slug": "AppleScript",
 			"type": "tag"
 		},
+		"Audio": {
+			"description": null,
+			"mid": 209,
+			"parent": 0,
+			"slug": "Audio",
+			"type": "tag"
+		},
 		"AutoHotKey": {
 			"description": null,
 			"mid": 181,
@@ -819,6 +826,13 @@
 			"mid": 90,
 			"parent": 0,
 			"slug": "Windows",
+			"type": "tag"
+		},
+		"XServer": {
+			"description": null,
+			"mid": 208,
+			"parent": 0,
+			"slug": "XServer",
 			"type": "tag"
 		},
 		"Xcode": {
