@@ -6,8 +6,9 @@ authorId: 1
 categories: [技术]
 created: '2021-07-31 00:52:33'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
-  thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-07-31 00:52:33'
+  thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20210731012830.png',
+  thumbDesc: '', thumbSmall: '', thumbStyle: default}
+modified: '2021-07-31 02:01:46'
 parent: 0
 password: ''
 slug: H-Downloader-当年写的本子下载器
