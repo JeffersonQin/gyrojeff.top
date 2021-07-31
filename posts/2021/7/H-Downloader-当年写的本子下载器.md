@@ -8,7 +8,7 @@ created: '2021-07-31 00:52:33'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20210731012830.png',
   thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-07-31 02:01:46'
+modified: '2021-07-31 13:39:16'
 parent: 0
 password: ''
 slug: H-Downloader-当年写的本子下载器
@@ -34,7 +34,13 @@ type: post
 - 未处理`e-hentai`超过40页，即要翻页（有多个简介页）的情况，看心情写。
 - 国内`erocool`的主站被墙，`cdn`可能没有被墙。在`analyze`和`download`之间记得开关代理。
 
-主要讲讲我的启动方案吧，感觉这个是很头大的一件事，因为我的`Shadowsocks`不是全局的，而是开了一个本地的代理服务器，而我也懒得在项目中增加`proxy_server`的设置了。基于以上种种，我尝试在`WSL`中跑`GUI`（这一定是一个危险的决定）, 并且还要用`proxychains`（这听起来更加危险了）
+主要讲讲我的启动方案吧，感觉这个是很头大的一件事，因为我的`Shadowsocks`不是全局的，而是开了一个本地的代理服务器，而我也懒得在项目中增加`proxy_server`的设置了。基于以上种种，我首先尝试使用`Windows`的[`proxychains`](https://github.com/shunf4/proxychains-windows/)跑，但是出了一些奇怪的问题：
+
+![](https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20210731133635.png)
+
+经过一番搜索后无果，包括尝试过加上`-Djava.net.preferIPv4Stack=true`或者写`System.setProperty("proxyHost", "localhost")`等操作，也将`proxychains`的`host`修改为`[::1]`, `127.0.0.1`, `localhost`过。
+
+于是乎我决定在在`WSL`中跑`GUI`（这一定是一个危险的决定）, 并且还要用`proxychains`（这听起来更加危险了）
 
 ## 过程
 
