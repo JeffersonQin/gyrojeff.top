@@ -198,6 +198,13 @@
 			"slug": "Bug",
 			"type": "tag"
 		},
+		"C#": {
+			"description": null,
+			"mid": 210,
+			"parent": 0,
+			"slug": "C",
+			"type": "tag"
+		},
 		"C++": {
 			"description": null,
 			"mid": 107,
@@ -357,6 +364,13 @@
 			"mid": 44,
 			"parent": 0,
 			"slug": "Emoji",
+			"type": "tag"
+		},
+		"Excel": {
+			"description": null,
+			"mid": 211,
+			"parent": 0,
+			"slug": "Excel",
 			"type": "tag"
 		},
 		"FTP": {
@@ -758,6 +772,13 @@
 			"slug": "Ubuntu",
 			"type": "tag"
 		},
+		"VBA": {
+			"description": null,
+			"mid": 212,
+			"parent": 0,
+			"slug": "VBA",
+			"type": "tag"
+		},
 		"VMWare": {
 			"description": null,
 			"mid": 194,
@@ -805,6 +826,13 @@
 			"mid": 136,
 			"parent": 0,
 			"slug": "WPE",
+			"type": "tag"
+		},
+		"WPF": {
+			"description": null,
+			"mid": 213,
+			"parent": 0,
+			"slug": "WPF",
 			"type": "tag"
 		},
 		"WSL": {
