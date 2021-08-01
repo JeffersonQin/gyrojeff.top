@@ -72,6 +72,13 @@
 			"slug": "NET",
 			"type": "tag"
 		},
+		".NET C#": {
+			"description": null,
+			"mid": 214,
+			"parent": 0,
+			"slug": "NET-C",
+			"type": "tag"
+		},
 		"20H2": {
 			"description": null,
 			"mid": 91,
