@@ -4,11 +4,11 @@ allowFeed: true
 allowPing: true
 authorId: 1
 categories: [技术]
-created: '2021-07-31 00:52:33'
+created: '2021-07-31 00:52:00'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20210731012830.png',
-  thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-07-31 13:39:16'
+  thumbChoice: default, thumbDesc: '', thumbSmall: '', thumbStyle: default}
+modified: '2021-07-31 13:42:18'
 parent: 0
 password: ''
 slug: H-Downloader-当年写的本子下载器
@@ -18,7 +18,7 @@ template: ''
 title: H-Downloader | 「当年」写的本子下载器
 type: post
 ---
-# 关于 H-Downloader
+# 关于 [H-Downloader](https://github.com/JeffersonQin/H-Downloader)
 
 `H-Downloader`是我于2020年2月写的本子下载器（一年半过去了），整理代码时修了点bug并开源。其可以下载如下网站的本子：
 - e-hentai.org
@@ -158,4 +158,3 @@ sudo apt-get install fonts-wqy-microhei fonts-wqy-zenhei xfonts-wqy
 # Reference
 
 - https://www.lainme.com/doku.php/blog/2018/07/如何优雅的在windows_10上装x
-- 
