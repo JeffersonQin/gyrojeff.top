@@ -8,7 +8,7 @@ created: '2021-08-01 11:13:44'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/af3de31445dbde9baeef94903efb39c.jpg',
   thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-08-01 11:13:44'
+modified: '2021-08-02 00:44:16'
 parent: 0
 password: ''
 slug: NET-C-AutomationElement-获取桌面UI元素
@@ -59,14 +59,14 @@ return element.FindFirst(TreeScope.Children,
 /// </summary>
 /// <param name="element">Input element</param>
 /// <returns></returns>
-public static List<AutomationElement> GetEndElements(AutomationElement element)
+public static List<AutomationElement> GetLeafElements(AutomationElement element)
 {
 	List<AutomationElement> res = new List<AutomationElement>();
 	try
 	{
 		Rect bounds = element.Current.BoundingRectangle;
 		if (!JudgeBounding(bounds)) return res;
-		GetEndElementsDFS(element, res, bounds);
+		GetLeafElementsDFS(element, res, bounds);
 	}
 	catch (Exception)
 	{
@@ -100,7 +100,7 @@ private static bool JudgeBounding(Rect bounds)
 }
 
 
-private static void GetEndElementsDFS(AutomationElement element, List<AutomationElement> res, Rect bounds)
+private static void GetLeafElementsDFS(AutomationElement element, List<AutomationElement> res, Rect bounds)
 {
 	AutomationElementCollection children = element.FindAll(TreeScope.Children,
 		new PropertyCondition(AutomationElement.IsOffscreenProperty, false));
@@ -112,7 +112,7 @@ private static void GetEndElementsDFS(AutomationElement element, List<Automation
 			if (!JudgeBounding(rect)) continue;
 			if (rect.Bottom <= bounds.Top || rect.Right <= bounds.Left) continue;
 			if (rect.Top >= bounds.Bottom || rect.Left >= bounds.Right) continue;
-			GetEndElementsDFS(e, res, rect);
+			GetLeafElementsDFS(e, res, rect);
 		} catch (Exception)
 		{
 			continue;
