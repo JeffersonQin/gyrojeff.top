@@ -7,7 +7,7 @@ categories: [技术]
 created: '2021-08-01 13:34:29'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-08-01 13:34:29'
+modified: '2021-08-02 00:44:16'
 parent: 0
 password: ''
 slug: NET-C-AutomationElement-加速探索
@@ -61,7 +61,7 @@ p
 我们来简单使用一下：
 
 ```C#
-public static ConcurrentQueue<AutomationElement> GetEndElementsByParallel(AutomationElement element, int concurrentThread)
+public static ConcurrentQueue<AutomationElement> GetLeafElementsByParallel(AutomationElement element, int concurrentThread)
 {
 	ConcurrentQueue<AutomationElement> res = new ConcurrentQueue<AutomationElement>();
 	try
@@ -72,7 +72,7 @@ public static ConcurrentQueue<AutomationElement> GetEndElementsByParallel(Automa
 		{
 			threadStart.Invoke();
 		}));
-		GetEndElementsDFS(element, res, threadPool, bounds);
+		GetLeafElementsDFS(element, res, threadPool, bounds);
 		threadPool.Join();
 	}
 	catch (Exception)
@@ -107,7 +107,7 @@ private static bool JudgeBounding(Rect bounds)
 }
 
 
-private static void GetEndElementsDFS(AutomationElement element, ConcurrentQueue<AutomationElement> res, IThreadPool<ThreadStart> threadPool, Rect bounds)
+private static void GetLeafElementsDFS(AutomationElement element, ConcurrentQueue<AutomationElement> res, IThreadPool<ThreadStart> threadPool, Rect bounds)
 {
 	AutomationElementCollection children = element.FindAll(TreeScope.Children,
 		new PropertyCondition(AutomationElement.IsOffscreenProperty, false));
@@ -123,11 +123,11 @@ private static void GetEndElementsDFS(AutomationElement element, ConcurrentQueue
 			{
 				threadPool.EnqueueTask(() =>
 				{
-					GetEndElementsDFS(e, res, threadPool, rect);
+					GetLeafElementsDFS(e, res, threadPool, rect);
 				});
 			} else
 			{
-				GetEndElementsDFS(e, res, threadPool, rect);
+				GetLeafElementsDFS(e, res, threadPool, rect);
 			}
 		}
 		catch (Exception)
