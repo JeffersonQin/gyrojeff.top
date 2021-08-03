@@ -114,8 +114,11 @@
 	"/posts/2021/7/穿越回十年前-浅谈remake第一话.md": 309,
 	"/posts/2021/8/NET-C-AutomationElement-加速探索.md": 332,
 	"/posts/2021/8/NET-C-AutomationElement-获取桌面UI元素.md": 330,
+	"/posts/2021/8/NET-C-C-混编问题.md": 336,
+	"/posts/2021/8/NET-C-MSAA-获取桌面UI元素.md": 337,
 	"/posts/2021/8/NET-C-UIAutomationElement-获取桌面元素.md": 333,
 	"/posts/2021/8/NET-C-手撕线程池-县城撕裂者.md": 331,
 	"/posts/2021/8/NET-C-获取桌面UI元素总结.md": 335,
-	"/posts/2021/8/NET-C-通过Win32API获取窗口及控件的信息.md": 334
+	"/posts/2021/8/NET-C-通过Win32API获取窗口及控件的信息.md": 334,
+	"/posts/2021/8/powershell-剪切板获取中文乱码问题.md": 338
 }
