@@ -7,7 +7,7 @@ categories: [技术]
 created: '2021-07-29 13:58:21'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-07-29 13:58:21'
+modified: '2021-08-21 15:09:55'
 parent: 0
 password: ''
 slug: Bluestacks无法启动及若干问题
@@ -28,3 +28,7 @@ type: post
 解决方法：使用**BlueStacksTweaker**启动Bluestacks
 
 ![](https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20210729141742.png)
+
+# 更新
+
+已经放弃`bluestacks for hyper-v`，经常无法启动，问题无法解决。
