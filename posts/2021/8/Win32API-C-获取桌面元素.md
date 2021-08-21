@@ -7,7 +7,7 @@ categories: [技术]
 created: '2021-08-06 00:13:44'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-08-06 00:13:44'
+modified: '2021-08-21 15:15:11'
 parent: 0
 password: ''
 slug: Win32API-C-获取桌面元素
@@ -137,6 +137,15 @@ Stackoverflow上告诉我，没有区别，完全是使用习惯问题。他们�
 > UI Automation 很多年没更新了，它的 IPC 架构导致性能非常差，比如 64 位比 32 位慢，猜测就是 IPC 层要做很多转换导致。微软最近也在做一些新的尝试：
 >
 > https://news.ycombinator.com/item?id=24294070
+
+# 代码
+
+https://github.com/JeffersonQin/Ayase/tree/master/Ayase.Accessibility
+
+主要文件：
+
+- GUIAutomationManager: 主要实现
+- GUIElement: 数据结构
 
 # 关于最终速度
 

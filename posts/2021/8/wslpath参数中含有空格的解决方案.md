@@ -6,8 +6,9 @@ authorId: 1
 categories: [技术]
 created: '2021-08-20 14:41:12'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
-  thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-08-20 14:41:12'
+  thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/8b2156dfcf332fb438fbb5650fa6f6b.png',
+  thumbDesc: '', thumbSmall: '', thumbStyle: default}
+modified: '2021-08-21 15:15:11'
 parent: 0
 password: ''
 slug: wslpath参数中含有空格的解决方案
