@@ -6,8 +6,9 @@ authorId: 1
 categories: [技术]
 created: '2021-08-19 17:16:17'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
-  thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-08-19 17:16:17'
+  thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20210820211019.png',
+  thumbDesc: '', thumbSmall: '', thumbStyle: default}
+modified: '2021-08-26 14:07:29'
 parent: 0
 password: ''
 slug: MIX-4-MIUI-初体验
