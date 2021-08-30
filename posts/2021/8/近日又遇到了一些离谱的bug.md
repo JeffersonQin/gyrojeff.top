@@ -7,7 +7,7 @@ categories: [随想]
 created: '2021-08-21 23:03:36'
 fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
   thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-08-26 14:07:29'
+modified: '2021-08-30 13:45:17'
 parent: 0
 password: ''
 slug: 近日又遇到了一些离谱的bug
@@ -62,7 +62,7 @@ type: post
 </details>
 <details>
 	<summary>用 Windows，UWP 炸掉，重装以后还炸，连炸两次，我已经能熟练地在一片空白中点击按钮啦！</summary>
-	<img src="https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20210130150052_fa97dee8d9f01cbf6416094d28f84e0c.png">
+	<img src="https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/vscode/20210130150052_fa97dee8d9f01cbf6416094d28f84e0c.png">
 </details>
 <details>
 	<summary>用微信电脑版，我发了一个「草」，发现 UI 错位了</summary>
@@ -70,12 +70,16 @@ type: post
 </details>
 <details>
 	<summary>用 bilibili，发现港澳台的番剧页面抠图没抠完全</summary>
-	<img src="https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/vscode/783013afa217f922b6d0972fd2271cb.png">
-	<img src="https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/vscode/d8fcf8dd163be059f06f9dc1c3d9af2.png">
+	<img src="https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/783013afa217f922b6d0972fd2271cb.png">
+	<img src="https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/d8fcf8dd163be059f06f9dc1c3d9af2.png">
 </details>
 <details>
 	<summary>UWP 不仅 UI 消失，还会随着鼠标位置的不同进行闪烁！</summary>
-	<video src="https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/b1ead5a6702f0533d4ac37f36c695dff.mp4">
+	<div class="kyt-player" style="height: 889px; width: 400px;">
+		<video src="https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/b1ead5a6702f0533d4ac37f36c695dff.mp4" style="height: auto; width: 100%; background-image: none;" draggable="true" controls="controls">
+		</video>
+		<div class="play-button" style="display: none;"></div>
+	</div>
 </details>
 <details>
 	<summary>MIUI 屏幕旋转时的错位导致分辨率下降</summary>
@@ -86,4 +90,9 @@ type: post
 	<summary>PyQt 5 随着边框距离的调整 在上面两张图的状态中切换</summary>
 	<img src="https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/0c3fb2f64ccf6af2fad690141745e51.png">
 	<img src="https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/3aedc41e40655a35c351bb1367a7fe7.png">
+</details>
+<details>
+	<summary>日常问候张小龙的母亲（1/1）</summary>
+	<img src="https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/8049e066f585818885c5a09f0ed6d7b.png">
+	<img src="https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/997251d1d4210a09397a37920e98109.png">
 </details>
