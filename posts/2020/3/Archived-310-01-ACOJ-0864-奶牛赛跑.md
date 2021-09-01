@@ -5,10 +5,10 @@ allowPing: true
 authorId: 1
 categories: [OI, 技术]
 created: '2020-03-01 22:48:00'
-fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
-  thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/uploads/bg/oi_bg.png',
+fields: {customSummary: '', mathjax: auto, noThumbInfoStyle: default, outdatedNotice: 'no',
+  reprint: standard, thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/uploads/bg/oi_bg.png',
   thumbChoice: default, thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-01-02 10:55:45'
+modified: '2021-09-02 00:39:37'
 parent: 0
 password: ''
 slug: '167'
@@ -42,8 +42,7 @@ $$
 \Rightarrow~&\frac {v_ik}v - \frac {v_jk}v = A_i + \alpha_i - (A_j + \alpha_j) \\
 \Rightarrow~&\sum_{1≤j<i≤n}\lfloor\frac {v_i - v_j}{v}k\rfloor = \sum_{1≤j<i≤n}(A_i - A_j)+\sum_{1≤j<i≤n}\lfloor\alpha_i - \alpha_j\rfloor \\
 &\sum_{1≤j<i≤n}(A_i - A_j) \\
-=~&\sum_{1≤i≤n}[(i - 1)A_i - (n - i)A_i] = \sum_{1≤i≤n}(i - 1 - n + i) A_i = \sum_{1≤i≤n}(2i - 1 - n)A_i \\
-
+=~&\sum_{1≤i≤n}[(i - 1)A_i - (n - i)A_i] = \sum_{1≤i≤n}(i - 1 - n + i) A_i = \sum_{1≤i≤n}(2i - 1 - n)A_i
 \end {align*}
 $$
 
