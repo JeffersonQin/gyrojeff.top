@@ -4,10 +4,11 @@ allowFeed: true
 allowPing: true
 authorId: 1
 categories: [技术]
-created: '2021-09-03 09:41:18'
+created: '2021-09-03 09:41:00'
 fields: {customSummary: '', mathjax: auto, noThumbInfoStyle: default, outdatedNotice: 'no',
-  reprint: standard, thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-09-03 09:41:18'
+  reprint: standard, thumb: '', thumbChoice: default, thumbDesc: '', thumbSmall: '',
+  thumbStyle: default}
+modified: '2021-09-03 13:33:27'
 parent: 0
 password: ''
 slug: 刷题计划-210902-Dijkstra最短路
@@ -120,7 +121,7 @@ $$
 设 $i = i_0$ 时，$c_i$ 即 $c_{i_0}$ 是全局确定项中的最小值最小，即：
 
 $$
-  i_0 = \argmin _ {i} c_{i}
+  i_0 = \arg \min _ {i} c_{i}
 $$
 
 则应该有：
@@ -138,7 +139,7 @@ $$
 因为 $\forall k \in K$ (这里记 $K$ 为所有未知元序数的集合)，有：
 
 $$
-  d_{i_0, k} + x_k = d_{i_0, k} + \min \{ \min _ j {c_{k, j}}, \min _ {k'} \{ d_{k, k'} + x_{k'} \} \}
+  d_{i_0, k} + x_k = d_{i_0, k} + \min \{ c_k, \min _ {k'} \{ d_{k, k'} + x_{k'} \} \}
 $$
 
 观察上式，令 $d_{i_0, k} + x_k$ 展开后的部分 $d_{k, k'} + x _ {k'}$ 便构成了递归。这个式子可以按照相同方式展开若干次，这个递归可以无穷递归下去然而，我们可以发现，展开式最后的形式必定包含若干个定值项 $c_i$ 和若干个未知元所对应的常数项 $d_j$，可以记作：
