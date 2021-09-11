@@ -5,10 +5,10 @@ allowPing: true
 authorId: 1
 categories: [OI, 技术]
 created: '2020-03-01 21:05:00'
-fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
-  thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/uploads/bg/oi_bg.png',
+fields: {customSummary: '', mathjax: auto, noThumbInfoStyle: default, outdatedNotice: 'no',
+  reprint: standard, thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/uploads/bg/oi_bg.png',
   thumbChoice: default, thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-01-02 10:55:34'
+modified: '2021-09-10 22:31:48'
 parent: 0
 password: ''
 slug: '156'
@@ -108,7 +108,7 @@ $L$代表这条道路的长度，$K$代表从赞助商帮你打通的宝藏屋�
 定义$f(lv,S)$，$S$为一个点集，$f(lv,S)$表示的是截至到$0\sim lv$层中所有点分别为$S$的这$lv + 1$层的总共的花费是多少。那么会有以下的式子：（枚举$T$为$S$的真子集）
 
 $$
-f(lv,S) = \min_{T\subset S} \Big \{ f(lv - 1,S-T) + lv \times b\sum_{u\in T}\min_{a\in S-T}w(u, a)\Big \}
+f(lv,S) = \min_{T\subset S} \Big \{ f(lv - 1,S-T) + lv \times \sum_{u\in T}\min_{a\in S-T}w(u, a)\Big \}
 $$
 
 但是仔细观察上式，还是存在问题，就是$\sum_{u\in T}\min_{a\in S-T}w(u,a)$的部分，其会出现下图的情况（单单对于$P9$而言的图）：
