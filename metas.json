@@ -163,6 +163,13 @@
 			"slug": "AutoHotKey",
 			"type": "tag"
 		},
+		"Azure": {
+			"description": null,
+			"mid": 229,
+			"parent": 0,
+			"slug": "Azure",
+			"type": "tag"
+		},
 		"BIT": {
 			"description": null,
 			"mid": 105,
