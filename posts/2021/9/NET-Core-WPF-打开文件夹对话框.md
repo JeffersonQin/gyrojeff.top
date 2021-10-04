@@ -6,8 +6,9 @@ authorId: 1
 categories: [技术]
 created: '2021-09-30 23:54:04'
 fields: {customSummary: '', mathjax: auto, noThumbInfoStyle: default, outdatedNotice: 'no',
-  reprint: standard, thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-09-30 23:54:04'
+  reprint: standard, thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/87977950_p0_master1200.jpg',
+  thumbDesc: '', thumbSmall: '', thumbStyle: default}
+modified: '2021-10-04 11:30:03'
 parent: 0
 password: ''
 slug: NET-Core-WPF-打开文件夹对话框
