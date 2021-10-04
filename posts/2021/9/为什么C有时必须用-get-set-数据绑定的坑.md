@@ -6,8 +6,9 @@ authorId: 1
 categories: [技术]
 created: '2021-09-30 01:26:28'
 fields: {customSummary: '', mathjax: auto, noThumbInfoStyle: default, outdatedNotice: 'no',
-  reprint: standard, thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-09-30 01:26:28'
+  reprint: standard, thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20211004112948.png',
+  thumbDesc: '', thumbSmall: '', thumbStyle: default}
+modified: '2021-10-04 11:30:03'
 parent: 0
 password: ''
 slug: 为什么C有时必须用-get-set-数据绑定的坑
