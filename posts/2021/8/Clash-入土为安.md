@@ -4,10 +4,11 @@ allowFeed: true
 allowPing: true
 authorId: 1
 categories: [技术]
-created: '2021-08-30 00:21:28'
-fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
-  thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-08-30 00:21:28'
+created: '2021-08-30 00:21:00'
+fields: {customSummary: '', mathjax: auto, noThumbInfoStyle: default, outdatedNotice: 'no',
+  reprint: standard, thumb: '', thumbChoice: default, thumbDesc: '', thumbSmall: '',
+  thumbStyle: default}
+modified: '2021-11-11 18:55:10'
 parent: 0
 password: ''
 slug: Clash-入土为安
@@ -165,6 +166,8 @@ mixin:
   ...
   ...
 ```
+
+注意：上面都是用 `yaml` 的方法配置的 `mixin`，还可以用 `Javascript` 的方式配置 `mixin`，方法可以参考官方文档和我的这个项目：https://github.com/JeffersonQin/clash-multi-mixin 其可以让 `clash` 的 `mixin` 同时支持多个飞机场。具体使用方法参见项目的 README。
 
 # 配置重置连接
 

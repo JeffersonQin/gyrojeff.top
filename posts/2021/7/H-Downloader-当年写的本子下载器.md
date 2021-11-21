@@ -5,14 +5,14 @@ allowPing: true
 authorId: 1
 categories: [技术]
 created: '2021-07-31 00:52:00'
-fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
-  thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20210731012830.png',
+fields: {customSummary: '', mathjax: auto, noThumbInfoStyle: default, outdatedNotice: 'no',
+  reprint: standard, thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20210731012830.png',
   thumbChoice: default, thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-07-31 13:42:18'
+modified: '2021-10-17 14:53:39'
 parent: 0
 password: ''
 slug: H-Downloader-当年写的本子下载器
-status: publish
+status: hidden
 tags: [Java]
 template: ''
 title: H-Downloader | 「当年」写的本子下载器

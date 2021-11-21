@@ -1248,6 +1248,13 @@
 			"slug": "梯度下降",
 			"type": "tag"
 		},
+		"概率论": {
+			"description": null,
+			"mid": 230,
+			"parent": 0,
+			"slug": "概率论",
+			"type": "tag"
+		},
 		"模板": {
 			"description": null,
 			"mid": 96,
