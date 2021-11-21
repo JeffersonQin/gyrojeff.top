@@ -107,6 +107,13 @@
 			"slug": "AP",
 			"type": "tag"
 		},
+		"Adobe": {
+			"description": null,
+			"mid": 235,
+			"parent": 0,
+			"slug": "Adobe",
+			"type": "tag"
+		},
 		"Affinity": {
 			"description": null,
 			"mid": 132,
@@ -408,6 +415,13 @@
 			"slug": "Excel",
 			"type": "tag"
 		},
+		"ExtendScript": {
+			"description": null,
+			"mid": 234,
+			"parent": 0,
+			"slug": "ExtendScript",
+			"type": "tag"
+		},
 		"FTP": {
 			"description": null,
 			"mid": 191,
@@ -511,6 +525,13 @@
 			"mid": 15,
 			"parent": 0,
 			"slug": "Java",
+			"type": "tag"
+		},
+		"Javascript": {
+			"description": null,
+			"mid": 231,
+			"parent": 0,
+			"slug": "Javascript",
 			"type": "tag"
 		},
 		"Karabiner-Elements": {
@@ -665,6 +686,13 @@
 			"mid": 71,
 			"parent": 0,
 			"slug": "PPT",
+			"type": "tag"
+		},
+		"Photoshop": {
+			"description": null,
+			"mid": 233,
+			"parent": 0,
+			"slug": "Photoshop",
 			"type": "tag"
 		},
 		"Powershell": {
@@ -896,6 +924,13 @@
 			"mid": 141,
 			"parent": 0,
 			"slug": "WSL",
+			"type": "tag"
+		},
+		"Web": {
+			"description": null,
+			"mid": 232,
+			"parent": 0,
+			"slug": "Web",
 			"type": "tag"
 		},
 		"Webpack": {
