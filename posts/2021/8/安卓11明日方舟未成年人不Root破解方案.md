@@ -4,15 +4,15 @@ allowFeed: true
 allowPing: true
 authorId: 1
 categories: [技术]
-created: '2021-08-21 20:05:25'
-fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
-  thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20210825154133.png',
-  thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-08-21 20:05:25'
+created: '2021-08-21 20:05:00'
+fields: {customSummary: '', mathjax: auto, noThumbInfoStyle: default, outdatedNotice: 'no',
+  reprint: standard, thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20210825154133.png',
+  thumbChoice: default, thumbDesc: '', thumbSmall: '', thumbStyle: default}
+modified: '2021-10-17 14:53:18'
 parent: 0
 password: ''
 slug: 安卓11明日方舟未成年人不Root破解方案
-status: publish
+status: hidden
 tags: [Android]
 template: ''
 title: 安卓11明日方舟未成年人不Root破解方案
