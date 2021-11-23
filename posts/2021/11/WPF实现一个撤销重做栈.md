@@ -7,10 +7,10 @@ categories: [技术]
 created: '2021-11-22 12:54:07'
 fields: {customSummary: '', mathjax: auto, noThumbInfoStyle: default, outdatedNotice: 'no',
   reprint: standard, thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-11-23 14:08:07'
+modified: '2021-11-23 14:10:44'
 parent: 0
 password: ''
-slug: WPF实现一个撤销重做栈
+slug: wpf-implement-undo-redo
 status: publish
 tags: [.NET, C#, WPF, 栈]
 template: ''
