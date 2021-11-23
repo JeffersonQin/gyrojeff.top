@@ -7,7 +7,7 @@ categories: [技术]
 created: '2021-11-22 12:54:07'
 fields: {customSummary: '', mathjax: auto, noThumbInfoStyle: default, outdatedNotice: 'no',
   reprint: standard, thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-11-22 12:54:07'
+modified: '2021-11-23 14:08:07'
 parent: 0
 password: ''
 slug: WPF实现一个撤销重做栈
@@ -124,7 +124,7 @@ List<List<UndoRedoRecord>> UndoStack
 
 ![](https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20211123132130.png)
 
-图中 `val_A` ~ `val_G` 是 7 个不同的属性，我们想让他们支持撤消重做，蓝色的 `step` 标出了操作的顺序，
+图中 `val_A` ~ `val_G` 是 7 个不同的属性，我们想让他们支持撤消重做，蓝色的 `step` 标出了操作的顺序，我们需要在执行操作前就把当前状态 (和操作的 `lambda`) 记录下来，入栈。
 
 ## 数据流动（以修改数据为例）
 
