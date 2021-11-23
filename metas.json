@@ -1255,6 +1255,13 @@
 			"slug": "机器学习",
 			"type": "tag"
 		},
+		"栈": {
+			"description": null,
+			"mid": 236,
+			"parent": 0,
+			"slug": "栈",
+			"type": "tag"
+		},
 		"树": {
 			"description": null,
 			"mid": 117,
