@@ -4,10 +4,11 @@ allowFeed: true
 allowPing: true
 authorId: 1
 categories: [技术]
-created: '2021-10-04 11:33:21'
+created: '2021-10-04 11:33:00'
 fields: {customSummary: '', mathjax: auto, noThumbInfoStyle: default, outdatedNotice: 'no',
-  reprint: standard, thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-10-04 11:33:21'
+  reprint: standard, thumb: '', thumbChoice: default, thumbDesc: '', thumbSmall: '',
+  thumbStyle: default}
+modified: '2021-11-29 21:54:05'
 parent: 0
 password: ''
 slug: wpf-use-user-control-as-container
@@ -104,11 +105,13 @@ public class BindingProxy : Freezable
 
 上述代码的意思是把类型是 `Window` 的 UI Tree 上的祖先的 `DataContext` 绑定到 `UserControl` 上。现在基本上就大功告成了。
 
+如果有需要的话还可以改成别的类型，还可以设置 `AncestorLevel`，具体的可以查一下文档。
+
 但是，`Container` 内部进行数据绑定的时候要更改一下表达式，例子：
 
 原来：
 ```xml
-"{Binding ImageSource, Mode=OneWay"
+"{Binding ImageSource, Mode=OneWay}"
 ```
 
 修改为：
