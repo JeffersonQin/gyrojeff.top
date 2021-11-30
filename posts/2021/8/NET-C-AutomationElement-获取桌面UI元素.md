@@ -4,11 +4,11 @@ allowFeed: true
 allowPing: true
 authorId: 1
 categories: [技术]
-created: '2021-08-01 11:13:44'
-fields: {customSummary: '', noThumbInfoStyle: default, outdatedNotice: 'no', reprint: standard,
-  thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/af3de31445dbde9baeef94903efb39c.jpg',
-  thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2021-08-02 00:44:16'
+created: '2021-08-01 11:13:00'
+fields: {customSummary: '', mathjax: auto, noThumbInfoStyle: default, outdatedNotice: 'no',
+  reprint: standard, thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/af3de31445dbde9baeef94903efb39c.jpg',
+  thumbChoice: default, thumbDesc: '', thumbSmall: '', thumbStyle: default}
+modified: '2021-11-30 15:53:29'
 parent: 0
 password: ''
 slug: NET-C-AutomationElement-获取桌面UI元素
@@ -18,7 +18,7 @@ template: ''
 title: .NET C# AutomationElement 获取桌面UI元素
 type: post
 ---
-这个东西其实是去年9月研究的，不过当时项目烂尾了，现在准备重启这个项目，所以特此写文章记录。项目地址：https://github.com/JeffersonQin/Ayase
+这个东西其实是去年9月研究的，不过当时没有记录，现在准备重新研究研究，所以特此写文章记录。项目地址：https://github.com/JeffersonQin/Ayase
 
 至于为什么要用这个名字命名...我永远喜欢三司绫濑（~~零奶~~）！角色命名，从我做起。
 
