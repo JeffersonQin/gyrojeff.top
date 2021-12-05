@@ -569,6 +569,13 @@
 			"slug": "ML",
 			"type": "tag"
 		},
+		"MVVM": {
+			"description": null,
+			"mid": 237,
+			"parent": 0,
+			"slug": "MVVM",
+			"type": "tag"
+		},
 		"MacbookPro": {
 			"description": null,
 			"mid": 59,
