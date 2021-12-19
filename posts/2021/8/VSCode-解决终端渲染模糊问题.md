@@ -33,7 +33,7 @@ type: post
 
 ```json
 {
-	"terminal.integrated.gpuAcceleration": "off"
+	"terminal.integrated.gpuAcceleration":xa0"off"
 }
 ```
 
