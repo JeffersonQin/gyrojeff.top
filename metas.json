@@ -849,6 +849,13 @@
 			"slug": "UI",
 			"type": "tag"
 		},
+		"UIAutomator": {
+			"description": null,
+			"mid": 239,
+			"parent": 0,
+			"slug": "UIAutomator",
+			"type": "tag"
+		},
 		"UX": {
 			"description": null,
 			"mid": 135,
