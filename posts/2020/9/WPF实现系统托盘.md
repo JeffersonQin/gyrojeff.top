@@ -139,6 +139,10 @@ ShutdownMode="OnExplicitShutdown"
 
 上面，我们针对不同的操作，绑定了相关的命令。还需要添加一个`ico`文件（这里我添加的是`UIToy.ico`）
 
+图标文件要设置好生成属性：
+
+![](https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20220103195723.png)
+
 # 在启动时显示系统托盘
 
 在`App.xaml.cs`当中初始化`Taskbar`：
