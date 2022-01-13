@@ -156,6 +156,13 @@
 			"slug": "AppleScript",
 			"type": "tag"
 		},
+		"Arduino": {
+			"description": null,
+			"mid": 240,
+			"parent": 0,
+			"slug": "Arduino",
+			"type": "tag"
+		},
 		"Audio": {
 			"description": null,
 			"mid": 209,
@@ -504,6 +511,13 @@
 			"mid": 83,
 			"parent": 0,
 			"slug": "Hexo",
+			"type": "tag"
+		},
+		"IoT": {
+			"description": null,
+			"mid": 243,
+			"parent": 0,
+			"slug": "IoT",
 			"type": "tag"
 		},
 		"JHengHei": {
@@ -975,6 +989,13 @@
 			"slug": "XServer",
 			"type": "tag"
 		},
+		"Xamarin": {
+			"description": null,
+			"mid": 242,
+			"parent": 0,
+			"slug": "Xamarin",
+			"type": "tag"
+		},
 		"Xcode": {
 			"description": null,
 			"mid": 123,
@@ -1330,6 +1351,13 @@
 			"mid": 7,
 			"parent": 0,
 			"slug": "深度学习",
+			"type": "tag"
+		},
+		"游戏": {
+			"description": null,
+			"mid": 241,
+			"parent": 0,
+			"slug": "游戏",
 			"type": "tag"
 		},
 		"物理": {
