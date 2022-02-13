@@ -6,7 +6,8 @@ authorId: 1
 categories: [技术]
 created: '2021-09-03 21:55:51'
 fields: {customSummary: '', mathjax: auto, noThumbInfoStyle: default, outdatedNotice: 'no',
-  reprint: standard, thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20210903214801.png', thumbDesc: '', thumbSmall: '', thumbStyle: default}
+  reprint: standard, thumb: 'https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20210903214801.png',
+  thumbDesc: '', thumbSmall: '', thumbStyle: default}
 modified: '2021-09-03 21:55:51'
 parent: 0
 password: ''
