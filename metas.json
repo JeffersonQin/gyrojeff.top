@@ -1234,6 +1234,13 @@
 			"slug": "心理",
 			"type": "tag"
 		},
+		"思考": {
+			"description": null,
+			"mid": 245,
+			"parent": 0,
+			"slug": "思考",
+			"type": "tag"
+		},
 		"手机": {
 			"description": null,
 			"mid": 218,
@@ -1400,6 +1407,13 @@
 			"mid": 102,
 			"parent": 0,
 			"slug": "砂糖厂",
+			"type": "tag"
+		},
+		"社会": {
+			"description": null,
+			"mid": 244,
+			"parent": 0,
+			"slug": "社会",
 			"type": "tag"
 		},
 		"神代綺凜": {
