@@ -36,6 +36,7 @@ type: post
 	- [激活服务](#激活服务)
 	- [在配置文件中增加配置 (根据官方Wiki)](#在配置文件中增加配置-根据官方wiki)
 	- [验证配置](#验证配置)
+	- [Update: 新版本配置方法](#update-新版本配置方法)
 - [配置By-Pass](#配置by-pass)
 - [配置一些常用的`Mixin`](#配置一些常用的mixin)
 - [关于配置时的`process name`](#关于配置时的process-name)
@@ -181,6 +182,8 @@ Settings中设置。此字段的意思为：如果规则改变了，需要重新
 
 首先是替换`wintun.dll`。这个步骤可能不是必须的，但在老版本中可能需要，所以还是说一下。
 
+**[2022/02/20] Update: 新版本的配置方法可能会有些许不同，参考本节最后一小节。**
+
 ## 安装 TUN 驱动
 
 - https://www.wintun.net/
@@ -223,7 +226,15 @@ tun:
 
 到达这一步，虽然没有发挥出全部功力，但是已经能够正常上网了。这里，建议使用`SwitchyOmega`的插件辅助验证。
 
-在浏览器中，`SwitchyOmega`设置为 **直连模式** ，
+在浏览器中，`SwitchyOmega`设置为 **直连模式** 。
+
+## Update: 新版本配置方法
+
+![](https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20220220224236.png)
+
+点击 TUN 的设置小按钮，进行配置：
+
+![](https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20220220224324.png)
 
 # 配置By-Pass
 
