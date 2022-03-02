@@ -1104,7 +1104,7 @@ $$
    $$\Delta V = -L \frac {\mathrm d i } {\mathrm d t}$$
 3. 经过电感的电流不能发生突变，因为电流的变化不可能突变：
    $$
-		\frac {\mathrm d i} {\mathrm d t} = \infin \Rightarrow \varepsilon = \infin
+		\frac {\mathrm d i} {\mathrm d t} = \infty \Rightarrow \varepsilon = \infty
    $$
 
 ## 5.13 磁能
