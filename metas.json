@@ -1143,6 +1143,20 @@
 			"slug": "yarn",
 			"type": "tag"
 		},
+		"二叉搜索树": {
+			"description": null,
+			"mid": 249,
+			"parent": 0,
+			"slug": "二叉搜索树",
+			"type": "tag"
+		},
+		"二叉树": {
+			"description": null,
+			"mid": 248,
+			"parent": 0,
+			"slug": "二叉树",
+			"type": "tag"
+		},
 		"二次元": {
 			"description": null,
 			"mid": 180,
