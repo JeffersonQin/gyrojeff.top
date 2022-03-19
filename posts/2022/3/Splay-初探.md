@@ -583,3 +583,4 @@ int main() {
 
 * https://oi-wiki.org/ds/splay/
 * https://www.luogu.com.cn/blog/pks-LOVING/more-senior-data-structure-te-bie-qian-di-qian-tan-splay
+* https://www.luogu.com.cn/blog/user19027/solution-p3369
