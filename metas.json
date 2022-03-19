@@ -191,6 +191,13 @@
 			"slug": "BIT",
 			"type": "tag"
 		},
+		"BST": {
+			"description": null,
+			"mid": 250,
+			"parent": 0,
+			"slug": "BST",
+			"type": "tag"
+		},
 		"Blog": {
 			"description": null,
 			"mid": 22,
@@ -835,6 +842,13 @@
 			"slug": "Shell",
 			"type": "tag"
 		},
+		"Splay": {
+			"description": null,
+			"mid": 252,
+			"parent": 0,
+			"slug": "Splay",
+			"type": "tag"
+		},
 		"Swift": {
 			"description": null,
 			"mid": 122,
@@ -1225,6 +1239,13 @@
 			"mid": 219,
 			"parent": 0,
 			"slug": "安卓",
+			"type": "tag"
+		},
+		"平衡树": {
+			"description": null,
+			"mid": 251,
+			"parent": 0,
+			"slug": "平衡树",
 			"type": "tag"
 		},
 		"并查集": {
