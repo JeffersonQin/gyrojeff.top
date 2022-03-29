@@ -36,6 +36,12 @@ https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/
 * `1 ^ 0 = 0 ^ 1 = 1`
 * `1 ^ 1 = 0 ^ 0 = 0`
 
+leetcode 官方的这两张图不错，省得我自己画了：
+
+![](https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20220329190636.png)
+
+![](https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20220329190621.png)
+
 ## 代码
 
 ```c++
