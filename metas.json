@@ -870,6 +870,20 @@
 			"slug": "SwitchyOmega",
 			"type": "tag"
 		},
+		"Tree": {
+			"description": null,
+			"mid": 254,
+			"parent": 0,
+			"slug": "Tree",
+			"type": "tag"
+		},
+		"Trie": {
+			"description": null,
+			"mid": 255,
+			"parent": 0,
+			"slug": "Trie",
+			"type": "tag"
+		},
 		"TypeScript": {
 			"description": null,
 			"mid": 152,
