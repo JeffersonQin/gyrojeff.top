@@ -140,15 +140,9 @@ loss = nn.CrossEntropyLoss(reduction='none')
 $$
 	\ell(x, y) = \begin{cases}
 		\sum_{n=1}^N \frac{1}{\sum_{n=1}^N w_{y_n} \cdot \mathbb{1}\{y_n \not= \text{ignore\_index}\}} l_n, &
-<<<<<<< HEAD
-		\text{if reduction} = \text{`mean';}\\
-		\sum_{n=1}^N l_n,  &
-		\text{if reduction} = \text{`sum'.}
-=======
 		\text{if reduction} = \text{“mean";}\\
 		\sum_{n=1}^N l_n,  &
 		\text{if reduction} = \text{“sum".}
->>>>>>> prod
 	\end{cases}
 $$
 
