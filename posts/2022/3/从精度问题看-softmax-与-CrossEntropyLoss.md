@@ -3,7 +3,7 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2022-03-28 19:59:42'
 fields: {customSummary: '', mathjax: auto, noThumbInfoStyle: default, outdatedNotice: 'no',
   reprint: standard, thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: 从精度问题看-softmax-与-CrossEntropyLoss
 status: publish
-tags: []
+tags: [DL, ML, Math, 机器学习, 深度学习]
 template: ''
 title: 从精度问题看 softmax 与 CrossEntropyLoss
 type: post

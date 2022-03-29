@@ -3,7 +3,7 @@ allowComment: true
 allowFeed: true
 allowPing: true
 authorId: 1
-categories: []
+categories: [技术]
 created: '2022-03-29 15:06:48'
 fields: {customSummary: '', mathjax: auto, noThumbInfoStyle: default, outdatedNotice: 'no',
   reprint: standard, thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
@@ -12,7 +12,7 @@ parent: 0
 password: ''
 slug: leetcode-1707-与数组中元素的最大异或值-在线-Trie
 status: publish
-tags: []
+tags: [OI, Trie]
 template: ''
 title: leetcode 1707 与数组中元素的最大异或值 - 在线 Trie
 type: post
