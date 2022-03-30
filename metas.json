@@ -527,6 +527,13 @@
 			"slug": "Hexo",
 			"type": "tag"
 		},
+		"Huffman": {
+			"description": null,
+			"mid": 257,
+			"parent": 0,
+			"slug": "Huffman",
+			"type": "tag"
+		},
 		"IoT": {
 			"description": null,
 			"mid": 243,

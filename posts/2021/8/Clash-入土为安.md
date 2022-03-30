@@ -419,6 +419,8 @@ mixin: # object
 
 ![](https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20210830124527.png)
 
+> 经网友提示，pip 报错需要打开clash 配置的Specify Protocol 选项。
+
 # 总结
 
 * System Proxy : 设置系统代理（感觉没啥用）
