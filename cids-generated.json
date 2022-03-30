@@ -174,7 +174,10 @@
 	"/posts/2022/3/CEOI-2011-Traffic-P4700.md": 421,
 	"/posts/2022/3/P1236-24点-随机跳题计划.md": 427,
 	"/posts/2022/3/P1364-医院设置-换根DP.md": 430,
+	"/posts/2022/3/P1717-钓鱼-朴素-DP.md": 434,
 	"/posts/2022/3/P2899-回顾树形-DP.md": 423,
+	"/posts/2022/3/PyTorch-模块与参数-Cheatsheet.md": 435,
+	"/posts/2022/3/SJTU-SPEIT-OJ-009-Write-the-tape-朴素-DP.md": 436,
 	"/posts/2022/3/Splay-初探.md": 420,
 	"/posts/2022/3/Stern-Brocot-Tree-性质的证明.md": 403,
 	"/posts/2022/3/leetcode-1027-随机跳题计划.md": 424,
@@ -213,5 +216,6 @@
 	"/posts/2022/3/深度学习的正则化方法.md": 433,
 	"/posts/2022/3/深藏功与名MS-Word-文件恢复.md": 401,
 	"/posts/2022/3/理解无限和式.md": 399,
-	"/posts/2022/3/裴蜀定理.md": 402
+	"/posts/2022/3/裴蜀定理.md": 402,
+	"/posts/2022/3/计算图的简单例子-参数复用.md": 437
 }
