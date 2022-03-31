@@ -1255,6 +1255,13 @@
 			"slug": "化学",
 			"type": "tag"
 		},
+		"图论": {
+			"description": null,
+			"mid": 260,
+			"parent": 0,
+			"slug": "图论",
+			"type": "tag"
+		},
 		"堆": {
 			"description": null,
 			"mid": 227,
@@ -1372,6 +1379,13 @@
 			"mid": 51,
 			"parent": 0,
 			"slug": "显卡",
+			"type": "tag"
+		},
+		"最大流": {
+			"description": null,
+			"mid": 259,
+			"parent": 0,
+			"slug": "最大流",
 			"type": "tag"
 		},
 		"最小生成树": {
@@ -1526,6 +1540,13 @@
 			"mid": 130,
 			"parent": 0,
 			"slug": "网络",
+			"type": "tag"
+		},
+		"网络流": {
+			"description": null,
+			"mid": 258,
+			"parent": 0,
+			"slug": "网络流",
 			"type": "tag"
 		},
 		"美化": {
