@@ -29,7 +29,7 @@ Given a string of a certain length containing English characters, numbers and sy
 
 ### Input
 
-The first line contains the integerNas described.
+The first line contains the integer N as described.
 
 The second line contains `N` characters which is the string content. The line is ended with `\n`
 
