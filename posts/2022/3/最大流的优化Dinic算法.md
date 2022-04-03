@@ -4,10 +4,11 @@ allowFeed: true
 allowPing: true
 authorId: 1
 categories: [技术]
-created: '2022-03-31 23:36:07'
+created: '2022-03-31 23:36:00'
 fields: {customSummary: '', mathjax: auto, noThumbInfoStyle: default, outdatedNotice: 'no',
-  reprint: standard, thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2022-03-31 23:36:07'
+  reprint: standard, thumb: '', thumbChoice: default, thumbDesc: '', thumbSmall: '',
+  thumbStyle: default}
+modified: '2022-04-01 00:08:29'
 parent: 0
 password: ''
 slug: 最大流的优化Dinic算法
@@ -36,11 +37,11 @@ type: post
 $$
 \begin {aligned}
 &\text{DINIC}(G,s,t) \\
-&1~~~~\bold{for}\text{ each edge }(u,v)\in G.E \\
+&1~~~~\mathbf{for}\text{ each edge }(u,v)\in G.E \\
 &2~~~~~~~~~~~~(u,v).f = 0\\
-&3~~~~\bold{while }\text{ BFS()} \\
-&4~~~~~~~~~~~~\text{ans }= \text{ ans }+ \text{DFS(}s,\infin) \\
-&5~~~~\bold{return }\text{ ans}
+&3~~~~\mathbf{while }\text{ BFS()} \\
+&4~~~~~~~~~~~~\text{ans }= \text{ ans }+ \text{DFS(}s,\infty) \\
+&5~~~~\mathbf{return }\text{ ans}
 \end {aligned}
 $$
 
