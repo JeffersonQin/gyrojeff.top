@@ -4,10 +4,11 @@ allowFeed: true
 allowPing: true
 authorId: 1
 categories: [技术]
-created: '2022-04-07 00:26:42'
+created: '2022-04-07 00:26:00'
 fields: {customSummary: '', mathjax: auto, noThumbInfoStyle: default, outdatedNotice: 'no',
-  reprint: standard, thumb: '', thumbDesc: '', thumbSmall: '', thumbStyle: default}
-modified: '2022-04-07 00:26:42'
+  reprint: standard, thumb: '', thumbChoice: default, thumbDesc: '', thumbSmall: '',
+  thumbStyle: default}
+modified: '2022-04-07 23:05:11'
 parent: 0
 password: ''
 slug: P2210-Haywire-状压-DP
@@ -38,7 +39,7 @@ $$
 什么是贡献？这个说法很模棱两可。其实是这样的：两个朋友都在集合里面，那答案必然要包括这对朋友连线的贡献。但是如果只有一头牛在集合里呢？很简单，贡献就是：按照某种最佳排列时，这头牛所处的位置到集合队尾的距离。这么说很抽象，我们举个例子：
 
 $$
-	* ~ * ~ * ~ \triangle ~ * ~ *
+	~ * ~ * ~ * ~ \triangle ~ * ~ *
 $$
 
 上图中，$*$ 代表无所谓的某头牛，$\triangle$ 代表我们现在考察的单个朋友，在这个状态下，$\triangle$ 对答案的贡献就是 $2$，因为 $\triangle$ 之后还有两头牛.
@@ -46,7 +47,7 @@ $$
 而如果在这个队列之后紧跟就是 $\triangle$ 的朋友：另一个 $\triangle$，那么在增加前 $\triangle$ 给出的贡献 $2$ 就是这对朋友对答案的贡献了：
 
 $$
-	* ~ * ~ * ~ \triangle ~ * ~ * ~ \triangle
+	~ * ~ * ~ * ~ \triangle ~ * ~ * ~ \triangle
 $$
 
 好。赘述完关于状态的定义，我们来思考状态怎么转移。对于集合 $i$，我们可以枚举位于队列尾端的到底是哪头牛。每次转移我们只需要加上原来的集合中孤立朋友的数量即可。最终给出的代码是做了一些小的优化，稍微难以理解，所以下面给出一个等价的形式，但是时间复杂度多一个 $n$，为 $O(n^22^n)$：
