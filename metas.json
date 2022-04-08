@@ -1262,6 +1262,13 @@
 			"slug": "化学",
 			"type": "tag"
 		},
+		"单调队列": {
+			"description": null,
+			"mid": 262,
+			"parent": 0,
+			"slug": "单调队列",
+			"type": "tag"
+		},
 		"图论": {
 			"description": null,
 			"mid": 260,
