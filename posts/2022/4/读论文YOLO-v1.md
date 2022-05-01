@@ -70,7 +70,7 @@ type: post
 
 ![](https://cdn.jsdelivr.net/gh/JeffersonQin/blog-asset@latest/usr/picgo/20220416113107.png)
 
-我们取 $B=2$，每个区域生成两个 bounding box，区域数量 $S=7$，然后分类的类别是 $C=10$。所以最后的输出
+我们取 $B=2$，每个区域生成两个 bounding box，区域数量（边） $S=7$，然后分类的类别是 $C=10$。所以最后的输出
 
 $$
 	S \times S \times (5B + C) = 7 \times 7 \times 30
@@ -123,7 +123,7 @@ $$
 YOLO 对于每个区域都会产生若干个 bounding box，但是训练的时候我们只希望每个目标对应一个 bounding box。所以最后计算 loss 的时候，我们就会 assign 一个 bounding box predictor 给每个目标。这个 assign 的依据是取
 
 $$
-	\argmax_{i, B_i \in B} \text{IoU}_{\text{truth}}^{B_i}
+	\operatorname{argmax}_{i, B_i \in B} \text{IoU}_{\text{truth}}^{B_i}
 $$
 
 ### Loss
