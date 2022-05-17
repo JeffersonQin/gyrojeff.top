@@ -27,7 +27,7 @@ type: post
 
 ## PyTorch 实现
 
-这里拿 Fashion-MNIST 距离，同样我们会给出例子来证明我们的做法是行之有效的。
+这里拿 Fashion-MNIST 举例，同样我们会给出例子来证明我们的做法是行之有效的。
 
 首先引入包：
 
