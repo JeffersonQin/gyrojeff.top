@@ -19,21 +19,21 @@ type: post
 ---
 # 起因
 
-我就是自带测试工程师属性，我就是Bug捕获剂，我他妈就是bug集合体，我不管用什么东西必定会有bug，我就是电子产品克星?
+我就是自带测试工程师属性，我就是Bug捕获剂，我他妈就是bug集合体，我不管用什么东西必定会有bug，我就是电子产品克星😅
 
-这篇文章可能会持续更新，毕竟测试工程师经常会进酒吧?
+这篇文章可能会持续更新，毕竟测试工程师经常会进酒吧😅
 
 # 第一批 20210826
 
-* MIX 4 MIUI 12.5，买回来一周不到，就遇到了开机卡死，开机后SIM卡检测被拔出，我甚至没有解锁BL?
+* MIX 4 MIUI 12.5，买回来一周不到，就遇到了开机卡死，开机后SIM卡检测被拔出，我甚至没有解锁BL😅
 * 当年iPhone 7+，到手一个礼拜，死机，强制重启
-* SPX 有次接上键盘就黑屏，拔下来就正常，那次还是在我考试前?
+* SPX 有次接上键盘就黑屏，拔下来就正常，那次还是在我考试前😅
 * SPX 几天待机不用，一开就显示 logo 然后卡死
 * 久违地用一下 PicGo，发现了 3 个 bug
   * 报错没有正常 handle：https://github.com/PicGo/vs-picgo/issues/99
   * 插件打包不正常：https://github.com/PicGo/vs-picgo/issues/100
   * WSL 对于有空格的路径没有正确处理：https://github.com/PicGo/PicGo-Core/pull/95
-* 好不容易把 bug 都修完了，上传一张图片，第一张很不错，结果第二张上传的时候，Github 炸了?
+* 好不容易把 bug 都修完了，上传一张图片，第一张很不错，结果第二张上传的时候，Github 炸了😅
 * 好不容易换了安卓，用了一下弹弹 Play 安卓版
   * 文件列表每刷新一次，字体大小就会发生变化 https://github.com/xyoye/DanDanPlayForAndroid/issues/96
   * 用中文作为API Token，点击测试直接闪退 https://github.com/xyoye/DanDanPlayForAndroid/issues/95

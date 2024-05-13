@@ -37,7 +37,7 @@ type: post
 这里我找到了一个九年前的项目，其中包含了相关的代码，可以借鉴：
 - https://github.com/PragyaPande/EnableFFPlugin
 
-我怕没了所以又fork了一份?：
+我怕没了所以又fork了一份🤣：
 - https://github.com/JeffersonQin/EnableFFPlugin
 
 注意：这个项目有些部分代码是有问题的，比方说`if (xxxObject != null && xxxObject.Trim() != "")`，这种写法明显如果出了`NullPointerException`就挂。所以大家还是要有分辨能力。
