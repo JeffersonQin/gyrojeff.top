@@ -19,7 +19,7 @@ type: post
 ---
 ## Preface
 
-做了一道可靠大仙贝给的 SJTU 巴院的题。出题人 \*\*\*\*\*\* 啊。题目表述不清。smallest to largest 不是 size 而是 index，所以这句话有什么说的必要吗😅。
+做了一道可靠大仙贝给的 SJTU 巴院的题。出题人 \*\*\*\*\*\* 啊。题目表述不清。smallest to largest 不是 size 而是 index，所以这句话有什么说的必要吗?。
 
 ## 题面
 
